@@ -10,7 +10,6 @@ I am a Software Engineer dedicated to improving my skills and pursuing growth op
 
 - any collobration work,
 - machine learning projects(development or research),
-- research internships and
 
 ## Skills:
 
