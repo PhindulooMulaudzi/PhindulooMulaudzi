@@ -1,6 +1,6 @@
 ### Hi there, I'm [Phindulo Mulaudzi](https://phinduloomulaudzi.github.io/Phindulo_Mulaudzi/) 👋
 
-I am Software Engineer, and i am currently working on improving my skills and seeking opportunities that will allow me to grow in this field.
+I am a Software Engineer dedicated to improving my skills and pursuing growth opportunities within the field.
 
 **Main Interests**:
 - Software Engineering
